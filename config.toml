@@ -1,5 +1,5 @@
 baseurl         = "/"
-theme           = "casper-two"
+theme           = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
@@ -45,7 +45,7 @@ paginate        = 6
   name = "Learning"
   url = "/categories/learning/"
   weight = 99
-# 
+#
 # [[menu.main]]
 #   name = "travel"
 #   url = "/categories/travel/"
@@ -55,3 +55,4 @@ paginate        = 6
 #   name = "Food"
 #   url = "/categories/food/"
 #   weight = 99
+theme = "hugo-casper-two"
