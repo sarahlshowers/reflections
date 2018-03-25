@@ -45,12 +45,12 @@ paginate        = 6
   name = "Learning"
   url = "/categories/learning/"
   weight = 99
-#
-# [[menu.main]]
-#   name = "travel"
-#   url = "/categories/travel/"
-#   weight = 100
-#
+
+[[menu.main]]
+  name = "travel"
+  url = "/categories/travel/"
+  weight = 100
+
 # [[menu.main]]
 #   name = "Food"
 #   url = "/categories/food/"
