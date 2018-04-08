@@ -1,11 +1,10 @@
 +++
 author = "Sarah Showers"
 authorAvatar = "images/avatar.jpg"
-date = "2018-03-03T17:46:00"
+date = "2018-03-06T17:46:00"
 image = "images/blogging/hugo.png"
 slug = "building-a-blog"
 title = "Building a blog with Hugo"
-weight = 10
 "categories" = [
   "Learning"
 ]
