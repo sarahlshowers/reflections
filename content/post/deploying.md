@@ -2,7 +2,7 @@
 author = "Sarah Showers"
 authorAvatar = "images/avatar.jpg"
 date = "2018-03-08T20:22:00"
-image = "images/netlify.png"
+image = "images/blogging/netlify.png"
 slug = "deploying"
 title = "Deploying my blog using Netlify"
 weight = 10
