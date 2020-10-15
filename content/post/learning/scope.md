@@ -11,9 +11,9 @@ title = "Revisiting scope in JavaScript"
 "tags" = ["javascript"]
 +++
 
-## Scope in JS
+# Scope in JS
 
-### But First
+## But First
 
 Let's take a step back to review the following keywords; `var`, `let`, and `const`. I promise there is some related scope content here.
 
