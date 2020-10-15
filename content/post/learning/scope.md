@@ -2,7 +2,7 @@
 author = "Sarah Showers"
 authorAvatar = "images/avatar.jpg"
 date = "2020-10-14T17:00:00"
-image = ""
+image = "images/blogging/js-hero.png"
 slug = "scope"
 title = "Revisiting scope in JavaScript"
 "categories" = [
@@ -11,9 +11,9 @@ title = "Revisiting scope in JavaScript"
 "tags" = ["javascript"]
 +++
 
-## Scope in JS
+# Scope in JS
 
-### But First
+## But First
 
 Let's take a step back to review the following keywords; `var`, `let`, and `const`. I promise there is some related scope content here.
 
