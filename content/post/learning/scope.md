@@ -2,7 +2,7 @@
 author = "Sarah Showers"
 authorAvatar = "images/avatar.jpg"
 date = "2020-10-14T17:00:00"
-image = ""
+image = "images/blogging/js-hero.png"
 slug = "scope"
 title = "Revisiting scope in JavaScript"
 "categories" = [

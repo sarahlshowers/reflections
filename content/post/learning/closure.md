@@ -2,7 +2,7 @@
 author = "Sarah Showers"
 authorAvatar = "images/avatar.jpg"
 date = "2020-10-15T09:00:00"
-image = ""
+image = "images/blogging/js-hero.png"
 slug = "closure"
 title = "Closing in on Closure"
 "categories" = [
