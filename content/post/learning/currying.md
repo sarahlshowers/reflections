@@ -16,8 +16,17 @@ title = "Currying - not an actionable item for butter chicken. That would be wei
 Currying transforms a function with multiple arguments into a series of functions each taking a single argument. The fancy term for multiple arguments is "arity", I came across it in a number of posts on currying and figured I'd share the nugget here.
 
 A couple of things to note:
+
 * Currying `transforms` a function
 * Argument order matters
+
+```
+a, b, c 👉 f() 👉 result
+
+a 👉 f()👇
+  b 👉 f()👇
+    c 👉 f() 👉 results
+```
 
 Lets look at a code example:
 
