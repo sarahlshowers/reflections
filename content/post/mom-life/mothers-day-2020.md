@@ -6,7 +6,11 @@ image = ""
 slug = "moms-day-20"
 title = "Mother's Day 2020"
 "categories" = [
+<<<<<<< HEAD
+  "family"
+=======
   "personal", "baby"
+>>>>>>> a60ecf7cd2547098a1e45248f38c0b020e6e33dc
 ]
 "tags" = ["personal", "family"]
 +++

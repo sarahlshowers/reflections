@@ -6,7 +6,11 @@ image = ""
 slug = "the-journey"
 title = "Infertility is not fun"
 "categories" = [
+<<<<<<< HEAD
+  "family"
+=======
   "personal", "baby"
+>>>>>>> a60ecf7cd2547098a1e45248f38c0b020e6e33dc
 ]
 "tags" = ["javascript"]
 +++
