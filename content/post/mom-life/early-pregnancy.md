@@ -6,7 +6,7 @@ image = ""
 slug = "maybe-baby"
 title = "Early pregnancy"
 "categories" = [
-  "personal", "baby"
+  "family"
 ]
 "tags" = ["personal", "family"]
 +++
