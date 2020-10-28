@@ -51,8 +51,9 @@ paginate        = 6
   url = "/categories/travel/"
   weight = 100
 
-# [[menu.main]]
-#   name = "Family"
-#   url = "/categories/family/"
-#   weight = 99
+[[menu.main]]
+  name = "Family"
+  url = "/categories/family/"
+  weight = 99
+
 theme = "hugo-casper-two"
