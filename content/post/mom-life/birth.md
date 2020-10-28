@@ -6,7 +6,7 @@ image = ""
 slug = "labor-delivery"
 title = "I'm About to be a Mom"
 "categories" = [
-  "family"
+  "baby"
 ]
 "tags" = ["personal", "family"]
 +++
