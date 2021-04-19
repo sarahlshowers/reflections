@@ -26,7 +26,7 @@ paginate        = 6
 
   author = "Sarah Showers"
   authorAvatar = "images/avatar.jpg"
-  authorLocation = "San Francisco, CA"
+  authorLocation = "New York, NY"
 
   pageNotFoundTitle = "404 - Page not found"
 
