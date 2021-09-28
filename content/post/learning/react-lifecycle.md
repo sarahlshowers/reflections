@@ -1,7 +1,7 @@
 +++
 author = "Sarah Showers"
 authorAvatar = "images/avatar.jpg"
-date = "2021-0928T17:00:00"
+date = "2021-09-28T17:00:00"
 image = "images/blogging/js-hero.png"
 slug = "react-lifecycle-analogies"
 title = "Recapping React Lifecycle Analogies"
